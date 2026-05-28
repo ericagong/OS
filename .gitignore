@@ -1,0 +1,5 @@
+# Claude Code 개인 권한 캐시 (컴퓨터별로 자동 누적)
+.claude/settings.local.json
+
+# macOS 자동 생성 메타데이터
+.DS_Store
